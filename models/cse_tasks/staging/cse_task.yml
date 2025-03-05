@@ -1,0 +1,5 @@
+sources:
+  - name: ANALYTICS
+    schema: DBT_ECHAVEZ
+    tables:
+      - name: BESTSELLERS_BOOKS
